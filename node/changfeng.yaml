@@ -1,9 +1,9 @@
 ####################################
 # 创建者：v2rayse.com
 # 客户端：Clash
-# 创建时间：2023-09-23 16:32:34
+# 创建时间：2023-09-23 16:34:44
 # 使用模版：V2RaySE 默认模版
-# 节点数量：1
+# 节点数量：178
 ####################################
 mixed-port: 7890
 allow-lan: true
@@ -85,46 +85,1285 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"defaultName","type":"http","server":"gitlab.com/mianfeifq/share/-/raw/master/data2023094.txt","port":null,"tls":true,"skip-cert-verify":true}
+  - {"name":"2023-09-23T13:25:46+08:00 177 https://github.com/mianfeifq/share ","type":"vmess","server":"github.com","port":443,"cipher":"auto","uuid":"mianfeifq","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇪🇺 欧洲(油管破解资源君2.0) 44 2","type":"vmess","server":"129.146.133.157","port":51009,"cipher":"auto","uuid":"81714cef-9bde-4a08-aa50-d6bc0172d78b","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇨🇦_CA_加拿大_2_16@11","type":"vmess","server":"198.57.27.212","port":22324,"cipher":"auto","uuid":"04621bae-ab36-11ec-b909-0242ac120002","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"ceshi","type":"vmess","server":"23.234.233.21","port":80,"cipher":"auto","uuid":"c78614f6-d18f-4994-c530-501f6c7f8a48","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/bb"}}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_80","type":"vmess","server":"142.4.115.154","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.60321304.xyz"}}}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_70","type":"vmess","server":"137.175.22.146","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.82078541.xyz"}}}
+  - {"name":"频道36@wxgqlfx","type":"trojan","server":"54.170.172.65","port":22222,"udp":true,"password":"telegram-id-directvpn","sni":"trj.rollingnext.co.uk","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵 Japan 04 @nodpai","type":"vmess","server":"141.147.153.244","port":41545,"cipher":"auto","uuid":"d47d7135-0954-46ab-a190-17b6c8630a85","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸 _US_美国_13","type":"vmess","server":"45.199.138.158","port":48855,"cipher":"auto","uuid":"f5250c4e-f855-4eff-b73c-a02226d42fe7","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸 美国 112","type":"vmess","server":"107.167.16.34","port":45592,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_19","type":"vmess","server":"7263join.outline-vpn.cloud","port":45592,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸 _US_美国_欢迎订阅yui科技_138","type":"vmess","server":"45.199.138.191","port":30387,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"荷兰","type":"vmess","server":"154.85.1.204","port":54885,"cipher":"auto","uuid":"d3133484-f2bf-4b0c-8d38-f8e645b65687","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"US 71 → tg@nicevpn123","type":"trojan","server":"198.244.252.93","port":443,"udp":true,"password":"de5a47b3e2","sni":"uk1.connecton.surf","skip-cert-verify":true}
+  - {"name":"🇻🇳 Viet Nam 01 @nodpai","type":"vmess","server":"vn3.4gspeed.me","port":443,"cipher":"auto","uuid":"b82aa9ca-6421-43ba-ad91-9fbab9bf199e","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/4gspeed.me","headers":{"host":"vn3.4gspeed.me"}}}
+  - {"name":"🇺🇸 美国 62","type":"vmess","server":"cdn.narutos.top","port":8880,"cipher":"auto","uuid":"4b5e4565-322f-4223-a891-78a84f189726","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/XQ2WCa29jfDM25GBcbnQ","headers":{"host":"poland.yj2022.gq"}}}
+  - {"name":"US 75 → tg@nicevpn123","type":"vmess","server":"odelia.autos","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"linkvws","headers":{"host":"odelia.autos"}}}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_126","type":"vmess","server":"198.2.207.100","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.27790575.xyz"}}}
+  - {"name":"「蛋挞云,超低价格,超高体验」🇩🇪 DE 01","type":"vmess","server":"91.107.244.77","port":50027,"cipher":"auto","uuid":"b9f75eba-67b0-4a6b-b89e-7e18217c61f5","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_64","type":"vmess","server":"142.4.103.152","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695177062956","headers":{"host":"www.42576874.xyz"}}}
+  - {"name":"频道25@wxgqlfx","type":"trojan","server":"16.171.73.163","port":22222,"udp":true,"password":"telegram-id-privatevpns","sni":"trj.rollingnext.co.uk","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸 美国 322","type":"vmess","server":"51fly99.win","port":443,"cipher":"auto","uuid":"9681f99e-d251-477a-d777-1d01ee550481","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/myblog","headers":{"host":"51fly99.win"}}}
+  - {"name":"_3","type":"vmess","server":"138.68.136.50","port":65500,"cipher":"auto","uuid":"6b2e381c-8214-47c7-aa73-54c803ef1d22","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"五叶节点分享频道 @hkaa0_1","type":"vmess","server":"sg1.wyhkaa0.cf","port":80,"cipher":"auto","uuid":"f4575c03-8145-4612-a1b2-7a48117f6fc2","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/TG:@hkaa0","headers":{"host":"sg1.wyhkaa0.cf"}}}
+  - {"name":"频道42@wxgqlfx","type":"trojan","server":"54.75.22.115","port":22222,"udp":true,"password":"telegram-id-privatevpns","sni":"trj.rollingnext.co.uk","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"美国CloudFlare节点 14","type":"vmess","server":"sg2.wyhkaa0.cf","port":80,"cipher":"auto","uuid":"fc426675-5daa-46c0-d998-61f9f5323e3f","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/TG:@hkaa0","headers":{"host":"sg2.wyhkaa0.cf"}}}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_89","type":"vmess","server":"137.175.29.82","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.85830864.xyz"}}}
+  - {"name":"关注频道https://t.me/mftizi","type":"vmess","server":"120.226.50.94","port":40702,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸 美国 335","type":"vmess","server":"104.31.16.120","port":8880,"cipher":"auto","uuid":"67a341a7-5ae7-4d92-edad-9e8db87ce165","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"vcus1.vpn66.eu.org"}}}
+  - {"name":"🇻🇳 Viet Nam 02 @nodpai","type":"vmess","server":"vn3.4gspeed.me","port":80,"cipher":"auto","uuid":"b82aa9ca-6421-43ba-ad91-9fbab9bf199e","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/4gspeed.me","headers":{"host":"vn3.4gspeed.me"}}}
+  - {"name":"🇺🇸 United States 05 @nodpai","type":"vmess","server":"23.95.164.190","port":80,"cipher":"auto","uuid":"2111eba4-fca4-406a-aa88-abb5131c7088","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/bb"}}
+  - {"name":"FR 5 → tg@nicevpn123","type":"trojan","server":"fra1.connecton.surf","port":443,"udp":true,"password":"cc491f13e9","skip-cert-verify":true}
+  - {"name":"_4","type":"vmess","server":"38.54.86.241","port":40385,"cipher":"auto","uuid":"271cc0d9-216f-4ab5-ec0e-6644113f112d","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸 US 319","type":"vmess","server":"104.31.16.120","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"linkvws","headers":{"host":"edeen.makeup"}}}
+  - {"name":"频道30@wxgqlfx","type":"trojan","server":"3.13.210.200","port":22222,"udp":true,"password":"telegram-id-directvpn","sni":"trj.rollingnext.co.uk","skip-cert-verify":true,"network":"tcp","alpn":["http/1.1"]}
+  - {"name":"🇺🇸 _US_美国_9","type":"vmess","server":"45.199.138.196","port":30448,"cipher":"auto","uuid":"fe5f69e7-e183-439b-950b-9661ef0651f2","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇭🇰+_HK_香港_176","type":"trojan","server":"18.163.249.175","port":443,"udp":true,"password":"ZFYOpKqD8uEClpZ2ya83cyCDalwSOYz3F3eCxnBD4eSXNSR5R0aAATj7I3x69g","sni":"golang.protocolbuffer.com","skip-cert-verify":true}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_118","type":"vmess","server":"192.74.234.211","port":31315,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_108","type":"vmess","server":"45.199.138.205","port":44094,"cipher":"auto","uuid":"20b30916-e203-412e-8ec0-900f3acd5128","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸 United States 13 @nodpai","type":"vmess","server":"23.94.136.9","port":80,"cipher":"auto","uuid":"cd1a8e9e-292e-499c-8266-79d636c28de5","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/acc"}}
+  - {"name":"频道34@wxgqlfx","type":"trojan","server":"18.135.201.169","port":22222,"udp":true,"password":"telegram-id-directvpn","sni":"trj.rollingnext.co.uk","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸 美国_09231064","type":"vmess","server":"octavi.cfd","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":1,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"linkvws","headers":{"host":"octavi.cfd"}}}
+  - {"name":"🇭🇰 _HK_香港","type":"vmess","server":"hkt.123ddns.xyz","port":55455,"cipher":"auto","uuid":"d2ce45e6-9f22-492d-d81d-d639067a7583","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"hkt.123ddns.xyz"}}}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_170","type":"vmess","server":"198.2.204.38","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.75575729.xyz"}}}
+  - {"name":"🇺🇸_US_美国->🇫🇷_FR_法国","type":"vmess","server":"ns1.v2-vip.fun","port":8880,"cipher":"auto","uuid":"617c9bc4-4116-41c6-99e0-ace49a38fcdb","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/Jnv8ViZOUVgijjOh0p5uGjHnXIiY","headers":{"host":"fr7.tehme100.fun"}}}
+  - {"name":"🇺🇸 US 860","type":"vmess","server":"138.2.44.211","port":20081,"cipher":"auto","uuid":"593b8525-0c48-4b0f-d9af-2d73a9148973","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"频道48@wxgqlfx","type":"vmess","server":"104.18.40.89","port":80,"cipher":"auto","uuid":"58d7b6e3-2b74-4424-b459-8c3545652c9f","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/vmess","headers":{"host":"ie1.xv2ray.net"}}}
+  - {"name":"未知_0923435","type":"vmess","server":"waynn.makeup","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":1,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"linkvws","headers":{"host":"waynn.makeup"}}}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_92","type":"vmess","server":"192.74.236.157","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.53752665.xyz"}}}
+  - {"name":"频道26@wxgqlfx","type":"trojan","server":"13.42.200.222","port":22222,"udp":true,"password":"telegram-id-privatevpns","sni":"trj.rollingnext.co.uk","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇸🇬 SG(AzadNet.t.me)_022","type":"vmess","server":"202.79.174.157","port":55264,"cipher":"auto","uuid":"121c9c89-7d11-4f49-9112-dc1e85363f6f","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇬🇧_GB_英国_18@2","type":"vmess","server":"172.99.190.12","port":22324,"cipher":"auto","uuid":"04621bae-ab36-11ec-b909-0242ac120002","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_87","type":"vmess","server":"137.175.32.87","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695177062956","headers":{"host":"www.45176089.xyz"}}}
+  - {"name":"频道38@wxgqlfx","type":"trojan","server":"52.51.118.52","port":22222,"udp":true,"password":"telegram-id-privatevpns","sni":"trj.rollingnext.co.uk","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_39","type":"vmess","server":"142.4.127.18","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.58058761.xyz"}}}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_40","type":"vmess","server":"38.63.0.76","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695177062956","headers":{"host":"www.19458162.xyz"}}}
+  - {"name":"_1","type":"vmess","server":"23.94.122.147","port":60222,"cipher":"auto","uuid":"84134d90-e4fe-4a86-c8d6-4d7bedb3c333","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/vmess"}}
+  - {"name":"🇺🇸_US_美国_4","type":"vmess","server":"156.225.67.102","port":52792,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_124","type":"vmess","server":"45.199.138.211","port":53636,"cipher":"auto","uuid":"6fa560d4-35c5-4968-adfc-812c52878b84","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇫🇷_FR_法国_欢迎订阅yui科技_142","type":"vmess","server":"156.249.18.204","port":54885,"cipher":"auto","uuid":"d3133484-f2bf-4b0c-8d38-f8e645b65687","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇭🇰+_HK_香港_4@2","type":"trojan","server":"103.15.217.182","port":33058,"udp":true,"password":"QHhbhwe6lj","sni":"103.15.217.182","skip-cert-verify":true}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_120","type":"vmess","server":"142.4.122.67","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.28820006.xyz"}}}
+  - {"name":"defaultName","type":"trojan","server":"de1.connecton.surf","port":443,"udp":true,"password":"e4bfb6fe1e","skip-cert-verify":true}
+  - {"name":"🇻🇳 Viet Nam 08 @nodpai","type":"vmess","server":"vn4.4gspeed.me","port":80,"cipher":"auto","uuid":"b82aa9ca-6421-43ba-ad91-9fbab9bf199e","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/4gspeed.me","headers":{"host":"vn4.4gspeed.me"}}}
+  - {"name":"🇨🇦 加拿大 114","type":"vmess","server":"172.67.221.18","port":8880,"cipher":"auto","uuid":"67a341a7-5ae7-4d92-edad-9e8db87ce165","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"vcus1.vpn66.eu.org"}}}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_77","type":"vmess","server":"142.0.130.70","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695118717355","headers":{"host":"www.71891316.xyz"}}}
+  - {"name":"频道53@wxgqlfx","type":"vmess","server":"www.speedtest.net","port":80,"cipher":"auto","uuid":"b8be7c80-592d-11ee-b832-205c6d5f5d78","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/@hopev2ray","headers":{"host":"lu.0rd.net"}}}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_171","type":"vmess","server":"192.74.238.231","port":41772,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸 _US_美国_欢迎订阅yui科技_117","type":"vmess","server":"45.199.138.161","port":38722,"cipher":"auto","uuid":"9549a2cf-129b-43a1-88db-ef7f648de74a","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_49","type":"vmess","server":"198.2.216.197","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.29303416.xyz"}}}
+  - {"name":"🇺🇸 美国 338","type":"vmess","server":"amstd.digires.shop","port":443,"cipher":"auto","uuid":"c13277ce-cda6-4d01-cedc-1e3605a0eb72","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/12796","headers":{"host":"amstd.digires.shop"}}}
+  - {"name":"🇺🇸 US 650","type":"vmess","server":"152.69.197.60","port":1069,"cipher":"auto","uuid":"ac8e26fe-8150-4b60-ae64-82fc77eba2cf","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸 US 282","type":"vmess","server":"104.21.4.29","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"linkvws","headers":{"host":"oliv.beauty"}}}
+  - {"name":"✅سرورهایبیشتردرکانال:prrofile_purple@✅","type":"vmess","server":"5.75.231.150","port":6565,"cipher":"auto","uuid":"82fd7d74-8055-41a0-9f5d-9a56ef302563","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇦🇺 AU 32","type":"vmess","server":"140.83.63.38","port":24445,"cipher":"auto","uuid":"94c5ef37-4d82-49f9-c624-f01259374a17","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇯🇵 JP(AzadNet.t.me)_024","type":"vmess","server":"45.88.43.143","port":51801,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇻🇳 Viet Nam 03 @nodpai","type":"vmess","server":"vn5.4gspeed.me","port":80,"cipher":"auto","uuid":"b82aa9ca-6421-43ba-ad91-9fbab9bf199e","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/4gspeed.me","headers":{"host":"vn5.4gspeed.me"}}}
+  - {"name":"🇭🇰 _HK_香港_欢迎订阅yui科技_45","type":"vmess","server":"156.245.8.169","port":443,"cipher":"auto","uuid":"3a3c8a9c-334e-4360-adb8-a80a57ddcbbf","alterId":64,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/path/1695118717355","headers":{"host":"www.16046626.xyz"}}}
+  - {"name":"_6","type":"vmess","server":"144.34.186.135","port":35987,"cipher":"auto","uuid":"20bf85b4-4703-47d1-fd8e-0fd3e158d8ff","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸 United States 02 @nodpai","type":"vmess","server":"23.94.43.207","port":13159,"cipher":"auto","uuid":"a8261424-d5ea-4c28-9253-7856c678f342","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_176","type":"vmess","server":"137.175.96.24","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.20973848.xyz"}}}
+  - {"name":"🇳🇱_NL_荷兰_欢迎订阅yui科技_158","type":"vmess","server":"154.85.1.243","port":54982,"cipher":"auto","uuid":"1d474f0b-e78d-4af9-bc4a-a467467bc7a7","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_144","type":"vmess","server":"137.175.38.231","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.23896072.xyz"}}}
+  - {"name":"🇺🇸 _US_美国_欢迎订阅yui科技_162","type":"vmess","server":"156.225.67.78","port":443,"cipher":"auto","uuid":"3e016c4d-986e-42df-838c-6046f3d89ecf","alterId":64,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.56427994.xyz"}}}
+  - {"name":"频道47@wxgqlfx","type":"vmess","server":"104.24.184.134","port":80,"cipher":"auto","uuid":"6388bd92-6cbc-4b72-a9a6-931f071d0ffa","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/phosphorylative.aurorainiceland.com/nimvws","headers":{"host":"erfannewfreenodes.vdmmswyzmzigonvnjk443.workers.dev"}}}
+  - {"name":"频道27@wxgqlfx","type":"trojan","server":"13.53.147.176","port":22222,"udp":true,"password":"telegram-id-privatevpns","sni":"trj.rollingnext.co.uk","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_169","type":"vmess","server":"45.199.138.213","port":44478,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇯🇵 JP 61","type":"vmess","server":"146.56.174.31","port":8080,"cipher":"auto","uuid":"c2eb5ff8-508d-4100-e0ca-9739f4d1c52c","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/tg@herhero6","headers":{"host":"146.56.174.31"}}}
+  - {"name":"🇺🇸 美国 60","type":"vmess","server":"104.21.70.14","port":8080,"cipher":"auto","uuid":"6735fcf0-7846-4259-bc31-f4f905a92750","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/vmess","headers":{"host":"se1.xv2ray.net"}}}
+  - {"name":"频道29@wxgqlfx","type":"trojan","server":"44.220.7.73","port":22222,"udp":true,"password":"telegram-id-directvpn","sni":"trj.rollingnext.co.uk","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸 _US_美国_欢迎订阅yui科技_122","type":"vmess","server":"156.225.67.39","port":46670,"cipher":"auto","uuid":"de491802-233e-47f2-8c6c-d19bcf5bd56b","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"v2_73","type":"vmess","server":"107.167.30.181","port":43900,"cipher":"auto","uuid":"58e560b4-bba6-4843-be5f-83321022fa0d","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"142.4.112.149","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695177062956","headers":{"host":"www.67023582.xyz"}}}
+  - {"name":"🇺🇸 United States 09 @nodpai","type":"vmess","server":"facet.x31416.top","port":443,"cipher":"auto","uuid":"c090fe2c-442b-4643-ef5e-98d53a5d72ac","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_131","type":"vmess","server":"107.148.195.29","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.19401390.xyz"}}}
+  - {"name":"🇮🇪+爱尔兰_0923002","type":"trojan","server":"52.48.4.221","port":22222,"udp":true,"password":"telegram-id-privatevpns","sni":"trj.rollingnext.co.uk","skip-cert-verify":true}
+  - {"name":"🇯🇵 JP(AzadNet.t.me)_023","type":"vmess","server":"45.88.43.163","port":51801,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸 _US_美国->🇳🇱_NL_荷兰","type":"vmess","server":"45.199.138.180","port":54885,"cipher":"auto","uuid":"d3133484-f2bf-4b0c-8d38-f8e645b65687","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇹🇼_TW_台湾_2_10@30","type":"vmess","server":"wqryo-1075-v2-0.d-hinet-02.ddll.bond","port":888,"cipher":"auto","uuid":"a590e692-4c8d-42dd-ba80-b1765a34f699","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/je5x3pBN1vez3NQudNkB"}}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_11","type":"vmess","server":"192.74.244.181","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.49419962.xyz"}}}
+  - {"name":"频道31@wxgqlfx","type":"trojan","server":"18.192.97.26","port":22222,"udp":true,"password":"telegram-id-privatevpns","sni":"trj.rollingnext.co.uk","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"频道19@wxgqlfx","type":"trojan","server":"15.236.184.78","port":22222,"udp":true,"password":"telegram-id-directvpn","sni":"trj.rollingnext.co.uk","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸 United States 16 @nodpai","type":"vmess","server":"photo.myfate.buzz","port":28507,"cipher":"auto","uuid":"c2a12b2e-93ba-402d-c47d-dd18788afc95","alterId":0,"tls":true,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"关注电报https://t.me/aifenxiang2020_1","type":"vmess","server":"codepen.io","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/octavi.cfd:443/linkvws","headers":{"host":"sub.yifenjichang.top"}}}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_181","type":"vmess","server":"192.74.240.27","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695177062956","headers":{"host":"www.70812236.xyz"}}}
+  - {"name":"🇵🇱_PL_波兰","type":"trojan","server":"51.83.186.142","port":80,"udp":true,"password":"555034c8-6420-45d0-893c-905c02342150","sni":"pl1.trojanvh.xyz","skip-cert-verify":true}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_65","type":"vmess","server":"198.2.202.67","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695177062956","headers":{"host":"www.49746402.xyz"}}}
+  - {"name":"🇻🇳 Viet Nam 04 @nodpai","type":"vmess","server":"vn4.4gspeed.me","port":443,"cipher":"auto","uuid":"b82aa9ca-6421-43ba-ad91-9fbab9bf199e","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/4gspeed.me","headers":{"host":"vn4.4gspeed.me"}}}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_55","type":"vmess","server":"199.188.107.150","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.66880458.xyz"}}}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_148","type":"vmess","server":"45.199.138.169","port":42725,"cipher":"auto","uuid":"6e79eea4-5f72-4683-ad0e-5339f013421b","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸 美国 32","type":"vmess","server":"api.jquery.com","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/oliv.beauty:443/linkvws","headers":{"host":"sub.yifenjichang.top"}}}
+  - {"name":"🇺🇸 美国 324","type":"vmess","server":"51vfly1.win","port":443,"cipher":"auto","uuid":"9681f99e-d251-477a-d777-1d01ee550481","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/myblog","headers":{"host":"51vfly1.win"}}}
+  - {"name":"🇺🇸 United States 03 @nodpai","type":"vmess","server":"199.115.229.12","port":29080,"cipher":"auto","uuid":"7e7c5056-ac2b-49e4-fbce-a47b09003e37","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸 美国(油管破解资源君) 38","type":"vmess","server":"laravel.com","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/octavi.cfd:443/linkvws","headers":{"host":"sub.yifenjichang.top"}}}
+  - {"name":"🇬🇧+英国_0922022","type":"trojan","server":"3.9.20.223","port":22222,"udp":true,"password":"telegram-id-privatevpns","sni":"trj.rollingnext.co.uk","skip-cert-verify":true}
+  - {"name":"🇺🇸 US 654","type":"vmess","server":"162.251.62.115","port":22324,"cipher":"auto","uuid":"04621bae-ab36-11ec-b909-0242ac120002","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸 _US_美国_欢迎订阅yui科技_112","type":"vmess","server":"45.199.138.184","port":36471,"cipher":"auto","uuid":"078eb24d-8d1d-4fbd-b914-ee58a897a35e","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_105","type":"vmess","server":"192.74.229.186","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.68339205.xyz"}}}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_53","type":"vmess","server":"198.2.208.91","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695177062956","headers":{"host":"www.71653718.xyz"}}}
+  - {"name":"🇺🇸 美国 29","type":"vmess","server":"172.67.76.172","port":80,"cipher":"auto","uuid":"fc426675-5daa-46c0-d998-61f9f5323e3f","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/TG:@hkaa0","headers":{"host":"sg2.wyhkaa0.cf"}}}
+  - {"name":"频道18@wxgqlfx","type":"trojan","server":"15.237.34.52","port":22222,"udp":true,"password":"telegram-id-privatevpns","sni":"trj.rollingnext.co.uk","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_94","type":"vmess","server":"172.67.69.247","port":8880,"cipher":"auto","uuid":"67a341a7-5ae7-4d92-edad-9e8db87ce165","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"vcus1.vpn66.eu.org"}}}
+  - {"name":"FR_speednode_0007","type":"vmess","server":"54.38.79.75","port":8880,"cipher":"auto","uuid":"bf55f0b0-592c-11ee-b339-205c6d5f5d78","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/1904chgs","headers":{"host":"teams.microsoft.com"}}}
+  - {"name":"频道01@wxgqlfx","type":"vmess","server":"bia2vpn4iir.ddns.net","port":50027,"cipher":"auto","uuid":"b9f75eba-67b0-4a6b-b89e-7e18217c61f5","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸 美国_09231068","type":"vmess","server":"129.146.46.181","port":52408,"cipher":"auto","uuid":"a797ff7b-8161-40a6-d577-1b2c213b3885","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_85","type":"vmess","server":"198.200.56.107","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.62618992.xyz"}}}
+  - {"name":"🇺🇸 美国 305","type":"vmess","server":"192.74.228.189","port":443,"cipher":"auto","uuid":"051b844f-efe3-4847-92aa-66b5de0b6d4e","alterId":64,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/path/1695032909164","headers":{"host":"www.59274706.xyz"}}}
+  - {"name":"🇭🇰 _HK_香港_欢迎订阅yui科技_118","type":"vmess","server":"156.245.8.144","port":42952,"cipher":"auto","uuid":"63b4b829-7f01-4e26-b037-f04b1f098765","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_5","type":"vmess","server":"156.225.67.48","port":45493,"cipher":"auto","uuid":"3ca912da-6ac2-418f-b9cf-45b6f694579b","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"「节点冠名招商 @nodpai」🇯🇵 JP 01","type":"vmess","server":"23.106.131.229","port":25467,"cipher":"auto","uuid":"9916c646-57b8-454d-9a29-f8823378c242","alterId":0,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_52","type":"vmess","server":"137.175.11.148","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.77646750.xyz"}}}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_83","type":"vmess","server":"142.0.137.13","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.70814184.xyz"}}}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_25","type":"vmess","server":"198.2.244.24","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.47722380.xyz"}}}
+  - {"name":"🇺🇸 _US_美国_欢迎订阅yui科技_74","type":"vmess","server":"108.186.178.129","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.88998600.xyz"}}}
+  - {"name":"US 46 → tg@nicevpn123","type":"vmess","server":"vps.pangchun.top","port":443,"cipher":"auto","uuid":"5d888c70-ce7a-4ade-f4f6-1d747f8e9328","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/cfvmess","headers":{"host":"vps.pangchun.top"}}}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_104","type":"vmess","server":"156.225.67.24","port":51381,"cipher":"auto","uuid":"375e70f0-5d46-476f-8d69-0fb35c5548a9","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"频道55@wxgqlfx","type":"vmess","server":"www.speedtest.net","port":80,"cipher":"auto","uuid":"bf75108e-7bec-4fe0-8db9-3d4985dd3bd6","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/vmess","headers":{"host":"it1.xv2ray.net"}}}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_79","type":"vmess","server":"192.74.232.248","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695177062956","headers":{"host":"www.54092415.xyz"}}}
+  - {"name":"五叶节点分享频道 @hkaa0_2","type":"vmess","server":"sg.wyhkaa0.cf","port":80,"cipher":"auto","uuid":"0ba28c05-7bd9-4cad-c329-482386a8e7a3","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/TG:@hkaa0","headers":{"host":"sg.wyhkaa0.cf"}}}
+  - {"name":"🇨🇳_CN_中国->🇺🇸_US_美国","type":"vmess","server":"183.233.187.233","port":49553,"cipher":"auto","uuid":"770ee730-2450-4e3c-a6c6-3932bd32afbd","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_177","type":"vmess","server":"137.175.86.189","port":37399,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"频道54@wxgqlfx","type":"vmess","server":"www.speedtest.net","port":80,"cipher":"auto","uuid":"03744aa9-7a0d-4117-a559-99e7da231454","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/vmess","headers":{"host":"lu1.xv2ray.net"}}}
+  - {"name":"🇺🇸_US_美国_1","type":"vmess","server":"45.199.138.164","port":48944,"cipher":"auto","uuid":"65ea6727-4461-47a7-a5c4-fef2c67f2f79","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸 US 589","type":"vmess","server":"104.31.16.14","port":443,"cipher":"auto","uuid":"d53cc5f9-b8ff-4cbe-bf10-295956c03276","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/@hopev2ray","headers":{"host":"de1vm.cdn-03.live"}}}
+  - {"name":"SG_36 |35.53Mb","type":"vmess","server":"8.210.128.146","port":36788,"cipher":"auto","uuid":"34ae890c-eada-4160-f7ba-a2d9fba215af","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"频道43@wxgqlfx","type":"vmess","server":"104.18.212.12","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/oliv.beauty:443/linkvws","headers":{"host":"sub.yifenjichang.top"}}}
+  - {"name":"🇰🇷+_KR_韩国_109（ccbaohe.com）免费资源导航","type":"trojan","server":"soul2.clare88.tk","port":27899,"udp":true,"password":"9pftoWNyji","sni":"soul2.clare88.tk","skip-cert-verify":true}
+  - {"name":"频道32@wxgqlfx","type":"trojan","server":"13.50.125.117","port":22222,"udp":true,"password":"telegram-id-directvpn","sni":"trj.rollingnext.co.uk","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇺🇸 美国_0923354","type":"vmess","server":"156.225.67.76","port":443,"cipher":"auto","uuid":"3e016c4d-986e-42df-838c-6046f3d89ecf","alterId":64,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/path/1694859605321","headers":{"host":"www.56427994.xyz"}}}
+  - {"name":"🇺🇸_US_美国_2","type":"vmess","server":"104.17.77.6","port":2052,"cipher":"auto","uuid":"23bea995-d5db-4530-85d1-ddb2082e1811","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/public","headers":{"host":"de.biqibao.site"}}}
+  - {"name":"🇺🇸 US(AzadNet.t.me)_411","type":"vmess","server":"67.21.64.84","port":43123,"cipher":"auto","uuid":"2566d00f-218c-48f7-9a36-13d3d6f1a724","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"HK_speednode_0036","type":"vmess","server":"156.245.8.145","port":42952,"cipher":"auto","uuid":"63b4b829-7f01-4e26-b037-f04b1f098765","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"FR 6 → tg@nicevpn123","type":"trojan","server":"51.158.63.14","port":443,"udp":true,"password":"cc491f13e9","sni":"fra1.connecton.surf","skip-cert-verify":true}
+  - {"name":"🇻🇳 Viet Nam 05 @nodpai","type":"vmess","server":"vn5.4gspeed.me","port":443,"cipher":"auto","uuid":"b82aa9ca-6421-43ba-ad91-9fbab9bf199e","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/4gspeed.me","headers":{"host":"vn5.4gspeed.me"}}}
+  - {"name":"🇺🇸 _US_美国","type":"trojan","server":"135.148.148.4","port":80,"udp":true,"password":"ee2bccd3-0f30-42d4-86d6-3d393ad230bd","sni":"us3.trojanvh.xyz\\\\\\\\r","skip-cert-verify":true}
+  - {"name":"频道44@wxgqlfx","type":"vmess","server":"104.17.88.252","port":2082,"cipher":"auto","uuid":"6388bd92-6cbc-4b72-a9a6-931f071d0ffa","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/phosphorylative.aurorainiceland.com/nimvws","headers":{"host":"erfannewfreenodes.vdmmswyzmzigonvnjk443.workers.dev"}}}
+  - {"name":"🇺🇸 美国 275","type":"vmess","server":"franc.digires.shop","port":443,"cipher":"auto","uuid":"1af4ba3d-e60f-4f83-b38b-23fc181f676d","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/11201","headers":{"host":"franc.digires.shop"}}}
+  - {"name":"🇫🇷_FR_法国_0@16","type":"trojan","server":"51.91.11.29","port":80,"udp":true,"password":"e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad","skip-cert-verify":true}
+  - {"name":"unknown 248","type":"vmess","server":"103.149.144.45","port":19482,"cipher":"auto","uuid":"50a170b7-1198-4603-e51a-0da28605d9e2","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇩🇪_DE_德国_18@3","type":"vmess","server":"23.158.56.89","port":22324,"cipher":"auto","uuid":"04621bae-ab36-11ec-b909-0242ac120002","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇲🇴_MO_澳门","type":"vmess","server":"104.192.87.54","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/143534141104","headers":{"host":"www.83116220.xyz"}}}
+  - {"name":"关注电报https://t.me/aifenxiang2020_2","type":"vmess","server":"dx1.992688.xyz","port":8080,"cipher":"auto","uuid":"d9a355ba-18f8-40db-892d-a481bbf777f9","alterId":0,"tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/?ed=2048","headers":{"host":"eu3.vpn66.eu.org"}}}
+  - {"name":"🇺🇸 United States 14 @nodpai","type":"vmess","server":"f.6446xtsy.buzz","port":443,"cipher":"auto","uuid":"f7aea457-b58a-4e2c-aba0-20019dd89fff","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/ask6446888","headers":{"host":"f.6446xtsy.buzz"}}}
+  - {"name":"🇨🇳 台湾_0920001","type":"vmess","server":"61.219.15.81","port":11872,"cipher":"auto","uuid":"0913b1ac-1f6c-436b-99b4-a5d6e343d025","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_103","type":"vmess","server":"107.148.203.101","port":443,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/path/1695204567237","headers":{"host":"www.30610304.xyz"}}}
+  - {"name":"🇺🇸+Relay_🇺🇸US-🇺🇸US_97+|21.55Mb","type":"trojan","server":"usa2.connecton.surf","port":443,"udp":true,"password":"29dbe98050","skip-cert-verify":true}
+  - {"name":"🇰🇷 _KR_韩国_欢迎订阅yui科技_20","type":"vmess","server":"cc1.clare88.tk","port":12653,"cipher":"auto","uuid":"fce96161-0c58-4ba9-8430-660d84083888","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_76","type":"vmess","server":"192.74.224.161","port":53986,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇭🇰+香港_0923008","type":"trojan","server":"27.0.232.204","port":443,"udp":true,"password":"77891e6750","sni":"hk1.connecton.surf","skip-cert-verify":true}
+  - {"name":"🇺🇸_US_美国_欢迎订阅yui科技_116","type":"vmess","server":"45.199.138.166","port":39351,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
+  - {"name":"关注电报https://t.me/aifenxiang2020_3","type":"vmess","server":"auth0.openai.com","port":443,"cipher":"auto","uuid":"03fcc618-b93d-6796-6aed-8a38c975d581","alterId":0,"tls":true,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/odelia.autos:443/linkvws","headers":{"host":"sub.yifenjichang.top"}}}
+  - {"name":"频道22@wxgqlfx","type":"trojan","server":"35.176.9.177","port":22222,"udp":true,"password":"telegram-id-privatevpns","sni":"trj.rollingnext.co.uk","skip-cert-verify":true,"network":"tcp"}
+  - {"name":"🇨🇳+_TW_台湾_1_7@29","type":"trojan","server":"rzuee-1075-tr-0.d-hinet-02.ddll.bond","port":889,"udp":true,"password":"LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY","sni":"cdn.cjhh.lol","skip-cert-verify":true}
+  - {"name":"🇨🇦 加拿大 150","type":"vmess","server":"mci1.amo2023.club","port":2096,"cipher":"auto","uuid":"1f05fe41-c9bf-4b4e-e476-ac58a00da929","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"mci1.amo2023.club"}}}
+  - {"name":"🇸🇬+_SG_新加坡+3+2+2","type":"trojan","server":"sg1.fighting.win","port":10001,"udp":true,"password":"8861ad96-45d4-42f7-9703-7de363a39a0f","skip-cert-verify":true}
+  - {"name":"🇨🇳 Taiwan 02 @nodpai","type":"vmess","server":"tw1.kidcc.xyz","port":8443,"cipher":"auto","uuid":"a8974bec-526d-4b4e-a46f-f0d6626ca576","alterId":0,"tls":false,"skip-cert-verify":true,"servername":"","network":"ws","ws-opts":{"path":"/","headers":{"host":"tw1.kidcc.xyz"}}}
+  - {"name":"🇺🇸_US_美国_2","type":"vmess","server":"45.199.138.209","port":50447,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca4690dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
+  - {"name":"18878","type":"vmess","server":"la01.platinumzebra230408.top","port":18878,"cipher":"auto","uuid":"6c147c5d-60a5-4aee-8ade-1aa7828043cc","alterId":0,"tls":true,"skip-cert-verify":true,"servername":"","network":"tcp"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - '2023-09-23T13:25:46+08:00 177 https://github.com/mianfeifq/share '
+      - 🇪🇺 欧洲(油管破解资源君2.0) 44 2
+      - 🇨🇦_CA_加拿大_2_16@11
+      - ceshi
+      - 🇺🇸_US_美国_欢迎订阅yui科技_80
+      - 🇺🇸_US_美国_欢迎订阅yui科技_70
+      - 频道36@wxgqlfx
+      - 🇯🇵 Japan 04 @nodpai
+      - 🇺🇸 _US_美国_13
+      - 🇺🇸 美国 112
+      - 🇺🇸_US_美国_19
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_138
+      - 荷兰
+      - US 71 → tg@nicevpn123
+      - 🇻🇳 Viet Nam 01 @nodpai
+      - 🇺🇸 美国 62
+      - US 75 → tg@nicevpn123
+      - 🇺🇸_US_美国_欢迎订阅yui科技_126
+      - 「蛋挞云,超低价格,超高体验」🇩🇪 DE 01
+      - 🇺🇸_US_美国_欢迎订阅yui科技_64
+      - 频道25@wxgqlfx
+      - 🇺🇸 美国 322
+      - _3
+      - 五叶节点分享频道 @hkaa0_1
+      - 频道42@wxgqlfx
+      - 美国CloudFlare节点 14
+      - 🇺🇸_US_美国_欢迎订阅yui科技_89
+      - 关注频道https://t.me/mftizi
+      - 🇺🇸 美国 335
+      - 🇻🇳 Viet Nam 02 @nodpai
+      - 🇺🇸 United States 05 @nodpai
+      - FR 5 → tg@nicevpn123
+      - _4
+      - 🇺🇸 US 319
+      - 频道30@wxgqlfx
+      - 🇺🇸 _US_美国_9
+      - 🇭🇰+_HK_香港_176
+      - 🇺🇸_US_美国_欢迎订阅yui科技_118
+      - 🇺🇸_US_美国_欢迎订阅yui科技_108
+      - 🇺🇸 United States 13 @nodpai
+      - 频道34@wxgqlfx
+      - 🇺🇸 美国_09231064
+      - 🇭🇰 _HK_香港
+      - 🇺🇸_US_美国_欢迎订阅yui科技_170
+      - 🇺🇸_US_美国->🇫🇷_FR_法国
+      - 🇺🇸 US 860
+      - 频道48@wxgqlfx
+      - 未知_0923435
+      - 🇺🇸_US_美国_欢迎订阅yui科技_92
+      - 频道26@wxgqlfx
+      - 🇸🇬 SG(AzadNet.t.me)_022
+      - 🇬🇧_GB_英国_18@2
+      - 🇺🇸_US_美国_欢迎订阅yui科技_87
+      - 频道38@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_39
+      - 🇺🇸_US_美国_欢迎订阅yui科技_40
+      - _1
+      - 🇺🇸_US_美国_4
+      - 🇺🇸_US_美国_欢迎订阅yui科技_124
+      - 🇫🇷_FR_法国_欢迎订阅yui科技_142
+      - 🇭🇰+_HK_香港_4@2
+      - 🇺🇸_US_美国_欢迎订阅yui科技_120
       - defaultName
+      - 🇻🇳 Viet Nam 08 @nodpai
+      - 🇨🇦 加拿大 114
+      - 🇺🇸_US_美国_欢迎订阅yui科技_77
+      - 频道53@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_171
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_117
+      - 🇺🇸_US_美国_欢迎订阅yui科技_49
+      - 🇺🇸 美国 338
+      - 🇺🇸 US 650
+      - 🇺🇸 US 282
+      - ✅سرورهایبیشتردرکانال:prrofile_purple@✅
+      - 🇦🇺 AU 32
+      - 🇯🇵 JP(AzadNet.t.me)_024
+      - 🇻🇳 Viet Nam 03 @nodpai
+      - 🇭🇰 _HK_香港_欢迎订阅yui科技_45
+      - _6
+      - 🇺🇸 United States 02 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_176
+      - 🇳🇱_NL_荷兰_欢迎订阅yui科技_158
+      - 🇺🇸_US_美国_欢迎订阅yui科技_144
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_162
+      - 频道47@wxgqlfx
+      - 频道27@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_169
+      - 🇯🇵 JP 61
+      - 🇺🇸 美国 60
+      - 频道29@wxgqlfx
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_122
+      - v2_73
+      - 🇺🇸_US_美国_1
+      - 🇺🇸 United States 09 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_131
+      - 🇮🇪+爱尔兰_0923002
+      - 🇯🇵 JP(AzadNet.t.me)_023
+      - 🇺🇸 _US_美国->🇳🇱_NL_荷兰
+      - 🇹🇼_TW_台湾_2_10@30
+      - 🇺🇸_US_美国_欢迎订阅yui科技_11
+      - 频道31@wxgqlfx
+      - 频道19@wxgqlfx
+      - 🇺🇸 United States 16 @nodpai
+      - 关注电报https://t.me/aifenxiang2020_1
+      - 🇺🇸_US_美国_欢迎订阅yui科技_181
+      - 🇵🇱_PL_波兰
+      - 🇺🇸_US_美国_欢迎订阅yui科技_65
+      - 🇻🇳 Viet Nam 04 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_55
+      - 🇺🇸_US_美国_欢迎订阅yui科技_148
+      - 🇺🇸 美国 32
+      - 🇺🇸 美国 324
+      - 🇺🇸 United States 03 @nodpai
+      - 🇺🇸 美国(油管破解资源君) 38
+      - 🇬🇧+英国_0922022
+      - 🇺🇸 US 654
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_112
+      - 🇺🇸_US_美国_欢迎订阅yui科技_105
+      - 🇺🇸_US_美国_欢迎订阅yui科技_53
+      - 🇺🇸 美国 29
+      - 频道18@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_94
+      - FR_speednode_0007
+      - 频道01@wxgqlfx
+      - 🇺🇸 美国_09231068
+      - 🇺🇸_US_美国_欢迎订阅yui科技_85
+      - 🇺🇸 美国 305
+      - 🇭🇰 _HK_香港_欢迎订阅yui科技_118
+      - 🇺🇸_US_美国_5
+      - 「节点冠名招商 @nodpai」🇯🇵 JP 01
+      - 🇺🇸_US_美国_欢迎订阅yui科技_52
+      - 🇺🇸_US_美国_欢迎订阅yui科技_83
+      - 🇺🇸_US_美国_欢迎订阅yui科技_25
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_74
+      - US 46 → tg@nicevpn123
+      - 🇺🇸_US_美国_欢迎订阅yui科技_104
+      - 频道55@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_79
+      - 五叶节点分享频道 @hkaa0_2
+      - 🇨🇳_CN_中国->🇺🇸_US_美国
+      - 🇺🇸_US_美国_欢迎订阅yui科技_177
+      - 频道54@wxgqlfx
+      - 🇺🇸_US_美国_1
+      - 🇺🇸 US 589
+      - SG_36 |35.53Mb
+      - 频道43@wxgqlfx
+      - 🇰🇷+_KR_韩国_109（ccbaohe.com）免费资源导航
+      - 频道32@wxgqlfx
+      - 🇺🇸 美国_0923354
+      - 🇺🇸_US_美国_2
+      - 🇺🇸 US(AzadNet.t.me)_411
+      - HK_speednode_0036
+      - FR 6 → tg@nicevpn123
+      - 🇻🇳 Viet Nam 05 @nodpai
+      - 🇺🇸 _US_美国
+      - 频道44@wxgqlfx
+      - 🇺🇸 美国 275
+      - 🇫🇷_FR_法国_0@16
+      - unknown 248
+      - 🇩🇪_DE_德国_18@3
+      - 🇲🇴_MO_澳门
+      - 关注电报https://t.me/aifenxiang2020_2
+      - 🇺🇸 United States 14 @nodpai
+      - 🇨🇳 台湾_0920001
+      - 🇺🇸_US_美国_欢迎订阅yui科技_103
+      - 🇺🇸+Relay_🇺🇸US-🇺🇸US_97+|21.55Mb
+      - 🇰🇷 _KR_韩国_欢迎订阅yui科技_20
+      - 🇺🇸_US_美国_欢迎订阅yui科技_76
+      - 🇭🇰+香港_0923008
+      - 🇺🇸_US_美国_欢迎订阅yui科技_116
+      - 关注电报https://t.me/aifenxiang2020_3
+      - 频道22@wxgqlfx
+      - 🇨🇳+_TW_台湾_1_7@29
+      - 🇨🇦 加拿大 150
+      - 🇸🇬+_SG_新加坡+3+2+2
+      - 🇨🇳 Taiwan 02 @nodpai
+      - 🇺🇸_US_美国_2
+      - '18878'
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
+      - '2023-09-23T13:25:46+08:00 177 https://github.com/mianfeifq/share '
+      - 🇪🇺 欧洲(油管破解资源君2.0) 44 2
+      - 🇨🇦_CA_加拿大_2_16@11
+      - ceshi
+      - 🇺🇸_US_美国_欢迎订阅yui科技_80
+      - 🇺🇸_US_美国_欢迎订阅yui科技_70
+      - 频道36@wxgqlfx
+      - 🇯🇵 Japan 04 @nodpai
+      - 🇺🇸 _US_美国_13
+      - 🇺🇸 美国 112
+      - 🇺🇸_US_美国_19
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_138
+      - 荷兰
+      - US 71 → tg@nicevpn123
+      - 🇻🇳 Viet Nam 01 @nodpai
+      - 🇺🇸 美国 62
+      - US 75 → tg@nicevpn123
+      - 🇺🇸_US_美国_欢迎订阅yui科技_126
+      - 「蛋挞云,超低价格,超高体验」🇩🇪 DE 01
+      - 🇺🇸_US_美国_欢迎订阅yui科技_64
+      - 频道25@wxgqlfx
+      - 🇺🇸 美国 322
+      - _3
+      - 五叶节点分享频道 @hkaa0_1
+      - 频道42@wxgqlfx
+      - 美国CloudFlare节点 14
+      - 🇺🇸_US_美国_欢迎订阅yui科技_89
+      - 关注频道https://t.me/mftizi
+      - 🇺🇸 美国 335
+      - 🇻🇳 Viet Nam 02 @nodpai
+      - 🇺🇸 United States 05 @nodpai
+      - FR 5 → tg@nicevpn123
+      - _4
+      - 🇺🇸 US 319
+      - 频道30@wxgqlfx
+      - 🇺🇸 _US_美国_9
+      - 🇭🇰+_HK_香港_176
+      - 🇺🇸_US_美国_欢迎订阅yui科技_118
+      - 🇺🇸_US_美国_欢迎订阅yui科技_108
+      - 🇺🇸 United States 13 @nodpai
+      - 频道34@wxgqlfx
+      - 🇺🇸 美国_09231064
+      - 🇭🇰 _HK_香港
+      - 🇺🇸_US_美国_欢迎订阅yui科技_170
+      - 🇺🇸_US_美国->🇫🇷_FR_法国
+      - 🇺🇸 US 860
+      - 频道48@wxgqlfx
+      - 未知_0923435
+      - 🇺🇸_US_美国_欢迎订阅yui科技_92
+      - 频道26@wxgqlfx
+      - 🇸🇬 SG(AzadNet.t.me)_022
+      - 🇬🇧_GB_英国_18@2
+      - 🇺🇸_US_美国_欢迎订阅yui科技_87
+      - 频道38@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_39
+      - 🇺🇸_US_美国_欢迎订阅yui科技_40
+      - _1
+      - 🇺🇸_US_美国_4
+      - 🇺🇸_US_美国_欢迎订阅yui科技_124
+      - 🇫🇷_FR_法国_欢迎订阅yui科技_142
+      - 🇭🇰+_HK_香港_4@2
+      - 🇺🇸_US_美国_欢迎订阅yui科技_120
       - defaultName
+      - 🇻🇳 Viet Nam 08 @nodpai
+      - 🇨🇦 加拿大 114
+      - 🇺🇸_US_美国_欢迎订阅yui科技_77
+      - 频道53@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_171
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_117
+      - 🇺🇸_US_美国_欢迎订阅yui科技_49
+      - 🇺🇸 美国 338
+      - 🇺🇸 US 650
+      - 🇺🇸 US 282
+      - ✅سرورهایبیشتردرکانال:prrofile_purple@✅
+      - 🇦🇺 AU 32
+      - 🇯🇵 JP(AzadNet.t.me)_024
+      - 🇻🇳 Viet Nam 03 @nodpai
+      - 🇭🇰 _HK_香港_欢迎订阅yui科技_45
+      - _6
+      - 🇺🇸 United States 02 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_176
+      - 🇳🇱_NL_荷兰_欢迎订阅yui科技_158
+      - 🇺🇸_US_美国_欢迎订阅yui科技_144
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_162
+      - 频道47@wxgqlfx
+      - 频道27@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_169
+      - 🇯🇵 JP 61
+      - 🇺🇸 美国 60
+      - 频道29@wxgqlfx
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_122
+      - v2_73
+      - 🇺🇸_US_美国_1
+      - 🇺🇸 United States 09 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_131
+      - 🇮🇪+爱尔兰_0923002
+      - 🇯🇵 JP(AzadNet.t.me)_023
+      - 🇺🇸 _US_美国->🇳🇱_NL_荷兰
+      - 🇹🇼_TW_台湾_2_10@30
+      - 🇺🇸_US_美国_欢迎订阅yui科技_11
+      - 频道31@wxgqlfx
+      - 频道19@wxgqlfx
+      - 🇺🇸 United States 16 @nodpai
+      - 关注电报https://t.me/aifenxiang2020_1
+      - 🇺🇸_US_美国_欢迎订阅yui科技_181
+      - 🇵🇱_PL_波兰
+      - 🇺🇸_US_美国_欢迎订阅yui科技_65
+      - 🇻🇳 Viet Nam 04 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_55
+      - 🇺🇸_US_美国_欢迎订阅yui科技_148
+      - 🇺🇸 美国 32
+      - 🇺🇸 美国 324
+      - 🇺🇸 United States 03 @nodpai
+      - 🇺🇸 美国(油管破解资源君) 38
+      - 🇬🇧+英国_0922022
+      - 🇺🇸 US 654
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_112
+      - 🇺🇸_US_美国_欢迎订阅yui科技_105
+      - 🇺🇸_US_美国_欢迎订阅yui科技_53
+      - 🇺🇸 美国 29
+      - 频道18@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_94
+      - FR_speednode_0007
+      - 频道01@wxgqlfx
+      - 🇺🇸 美国_09231068
+      - 🇺🇸_US_美国_欢迎订阅yui科技_85
+      - 🇺🇸 美国 305
+      - 🇭🇰 _HK_香港_欢迎订阅yui科技_118
+      - 🇺🇸_US_美国_5
+      - 「节点冠名招商 @nodpai」🇯🇵 JP 01
+      - 🇺🇸_US_美国_欢迎订阅yui科技_52
+      - 🇺🇸_US_美国_欢迎订阅yui科技_83
+      - 🇺🇸_US_美国_欢迎订阅yui科技_25
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_74
+      - US 46 → tg@nicevpn123
+      - 🇺🇸_US_美国_欢迎订阅yui科技_104
+      - 频道55@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_79
+      - 五叶节点分享频道 @hkaa0_2
+      - 🇨🇳_CN_中国->🇺🇸_US_美国
+      - 🇺🇸_US_美国_欢迎订阅yui科技_177
+      - 频道54@wxgqlfx
+      - 🇺🇸_US_美国_1
+      - 🇺🇸 US 589
+      - SG_36 |35.53Mb
+      - 频道43@wxgqlfx
+      - 🇰🇷+_KR_韩国_109（ccbaohe.com）免费资源导航
+      - 频道32@wxgqlfx
+      - 🇺🇸 美国_0923354
+      - 🇺🇸_US_美国_2
+      - 🇺🇸 US(AzadNet.t.me)_411
+      - HK_speednode_0036
+      - FR 6 → tg@nicevpn123
+      - 🇻🇳 Viet Nam 05 @nodpai
+      - 🇺🇸 _US_美国
+      - 频道44@wxgqlfx
+      - 🇺🇸 美国 275
+      - 🇫🇷_FR_法国_0@16
+      - unknown 248
+      - 🇩🇪_DE_德国_18@3
+      - 🇲🇴_MO_澳门
+      - 关注电报https://t.me/aifenxiang2020_2
+      - 🇺🇸 United States 14 @nodpai
+      - 🇨🇳 台湾_0920001
+      - 🇺🇸_US_美国_欢迎订阅yui科技_103
+      - 🇺🇸+Relay_🇺🇸US-🇺🇸US_97+|21.55Mb
+      - 🇰🇷 _KR_韩国_欢迎订阅yui科技_20
+      - 🇺🇸_US_美国_欢迎订阅yui科技_76
+      - 🇭🇰+香港_0923008
+      - 🇺🇸_US_美国_欢迎订阅yui科技_116
+      - 关注电报https://t.me/aifenxiang2020_3
+      - 频道22@wxgqlfx
+      - 🇨🇳+_TW_台湾_1_7@29
+      - 🇨🇦 加拿大 150
+      - 🇸🇬+_SG_新加坡+3+2+2
+      - 🇨🇳 Taiwan 02 @nodpai
+      - 🇺🇸_US_美国_2
+      - '18878'
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - '2023-09-23T13:25:46+08:00 177 https://github.com/mianfeifq/share '
+      - 🇪🇺 欧洲(油管破解资源君2.0) 44 2
+      - 🇨🇦_CA_加拿大_2_16@11
+      - ceshi
+      - 🇺🇸_US_美国_欢迎订阅yui科技_80
+      - 🇺🇸_US_美国_欢迎订阅yui科技_70
+      - 频道36@wxgqlfx
+      - 🇯🇵 Japan 04 @nodpai
+      - 🇺🇸 _US_美国_13
+      - 🇺🇸 美国 112
+      - 🇺🇸_US_美国_19
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_138
+      - 荷兰
+      - US 71 → tg@nicevpn123
+      - 🇻🇳 Viet Nam 01 @nodpai
+      - 🇺🇸 美国 62
+      - US 75 → tg@nicevpn123
+      - 🇺🇸_US_美国_欢迎订阅yui科技_126
+      - 「蛋挞云,超低价格,超高体验」🇩🇪 DE 01
+      - 🇺🇸_US_美国_欢迎订阅yui科技_64
+      - 频道25@wxgqlfx
+      - 🇺🇸 美国 322
+      - _3
+      - 五叶节点分享频道 @hkaa0_1
+      - 频道42@wxgqlfx
+      - 美国CloudFlare节点 14
+      - 🇺🇸_US_美国_欢迎订阅yui科技_89
+      - 关注频道https://t.me/mftizi
+      - 🇺🇸 美国 335
+      - 🇻🇳 Viet Nam 02 @nodpai
+      - 🇺🇸 United States 05 @nodpai
+      - FR 5 → tg@nicevpn123
+      - _4
+      - 🇺🇸 US 319
+      - 频道30@wxgqlfx
+      - 🇺🇸 _US_美国_9
+      - 🇭🇰+_HK_香港_176
+      - 🇺🇸_US_美国_欢迎订阅yui科技_118
+      - 🇺🇸_US_美国_欢迎订阅yui科技_108
+      - 🇺🇸 United States 13 @nodpai
+      - 频道34@wxgqlfx
+      - 🇺🇸 美国_09231064
+      - 🇭🇰 _HK_香港
+      - 🇺🇸_US_美国_欢迎订阅yui科技_170
+      - 🇺🇸_US_美国->🇫🇷_FR_法国
+      - 🇺🇸 US 860
+      - 频道48@wxgqlfx
+      - 未知_0923435
+      - 🇺🇸_US_美国_欢迎订阅yui科技_92
+      - 频道26@wxgqlfx
+      - 🇸🇬 SG(AzadNet.t.me)_022
+      - 🇬🇧_GB_英国_18@2
+      - 🇺🇸_US_美国_欢迎订阅yui科技_87
+      - 频道38@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_39
+      - 🇺🇸_US_美国_欢迎订阅yui科技_40
+      - _1
+      - 🇺🇸_US_美国_4
+      - 🇺🇸_US_美国_欢迎订阅yui科技_124
+      - 🇫🇷_FR_法国_欢迎订阅yui科技_142
+      - 🇭🇰+_HK_香港_4@2
+      - 🇺🇸_US_美国_欢迎订阅yui科技_120
       - defaultName
+      - 🇻🇳 Viet Nam 08 @nodpai
+      - 🇨🇦 加拿大 114
+      - 🇺🇸_US_美国_欢迎订阅yui科技_77
+      - 频道53@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_171
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_117
+      - 🇺🇸_US_美国_欢迎订阅yui科技_49
+      - 🇺🇸 美国 338
+      - 🇺🇸 US 650
+      - 🇺🇸 US 282
+      - ✅سرورهایبیشتردرکانال:prrofile_purple@✅
+      - 🇦🇺 AU 32
+      - 🇯🇵 JP(AzadNet.t.me)_024
+      - 🇻🇳 Viet Nam 03 @nodpai
+      - 🇭🇰 _HK_香港_欢迎订阅yui科技_45
+      - _6
+      - 🇺🇸 United States 02 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_176
+      - 🇳🇱_NL_荷兰_欢迎订阅yui科技_158
+      - 🇺🇸_US_美国_欢迎订阅yui科技_144
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_162
+      - 频道47@wxgqlfx
+      - 频道27@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_169
+      - 🇯🇵 JP 61
+      - 🇺🇸 美国 60
+      - 频道29@wxgqlfx
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_122
+      - v2_73
+      - 🇺🇸_US_美国_1
+      - 🇺🇸 United States 09 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_131
+      - 🇮🇪+爱尔兰_0923002
+      - 🇯🇵 JP(AzadNet.t.me)_023
+      - 🇺🇸 _US_美国->🇳🇱_NL_荷兰
+      - 🇹🇼_TW_台湾_2_10@30
+      - 🇺🇸_US_美国_欢迎订阅yui科技_11
+      - 频道31@wxgqlfx
+      - 频道19@wxgqlfx
+      - 🇺🇸 United States 16 @nodpai
+      - 关注电报https://t.me/aifenxiang2020_1
+      - 🇺🇸_US_美国_欢迎订阅yui科技_181
+      - 🇵🇱_PL_波兰
+      - 🇺🇸_US_美国_欢迎订阅yui科技_65
+      - 🇻🇳 Viet Nam 04 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_55
+      - 🇺🇸_US_美国_欢迎订阅yui科技_148
+      - 🇺🇸 美国 32
+      - 🇺🇸 美国 324
+      - 🇺🇸 United States 03 @nodpai
+      - 🇺🇸 美国(油管破解资源君) 38
+      - 🇬🇧+英国_0922022
+      - 🇺🇸 US 654
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_112
+      - 🇺🇸_US_美国_欢迎订阅yui科技_105
+      - 🇺🇸_US_美国_欢迎订阅yui科技_53
+      - 🇺🇸 美国 29
+      - 频道18@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_94
+      - FR_speednode_0007
+      - 频道01@wxgqlfx
+      - 🇺🇸 美国_09231068
+      - 🇺🇸_US_美国_欢迎订阅yui科技_85
+      - 🇺🇸 美国 305
+      - 🇭🇰 _HK_香港_欢迎订阅yui科技_118
+      - 🇺🇸_US_美国_5
+      - 「节点冠名招商 @nodpai」🇯🇵 JP 01
+      - 🇺🇸_US_美国_欢迎订阅yui科技_52
+      - 🇺🇸_US_美国_欢迎订阅yui科技_83
+      - 🇺🇸_US_美国_欢迎订阅yui科技_25
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_74
+      - US 46 → tg@nicevpn123
+      - 🇺🇸_US_美国_欢迎订阅yui科技_104
+      - 频道55@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_79
+      - 五叶节点分享频道 @hkaa0_2
+      - 🇨🇳_CN_中国->🇺🇸_US_美国
+      - 🇺🇸_US_美国_欢迎订阅yui科技_177
+      - 频道54@wxgqlfx
+      - 🇺🇸_US_美国_1
+      - 🇺🇸 US 589
+      - SG_36 |35.53Mb
+      - 频道43@wxgqlfx
+      - 🇰🇷+_KR_韩国_109（ccbaohe.com）免费资源导航
+      - 频道32@wxgqlfx
+      - 🇺🇸 美国_0923354
+      - 🇺🇸_US_美国_2
+      - 🇺🇸 US(AzadNet.t.me)_411
+      - HK_speednode_0036
+      - FR 6 → tg@nicevpn123
+      - 🇻🇳 Viet Nam 05 @nodpai
+      - 🇺🇸 _US_美国
+      - 频道44@wxgqlfx
+      - 🇺🇸 美国 275
+      - 🇫🇷_FR_法国_0@16
+      - unknown 248
+      - 🇩🇪_DE_德国_18@3
+      - 🇲🇴_MO_澳门
+      - 关注电报https://t.me/aifenxiang2020_2
+      - 🇺🇸 United States 14 @nodpai
+      - 🇨🇳 台湾_0920001
+      - 🇺🇸_US_美国_欢迎订阅yui科技_103
+      - 🇺🇸+Relay_🇺🇸US-🇺🇸US_97+|21.55Mb
+      - 🇰🇷 _KR_韩国_欢迎订阅yui科技_20
+      - 🇺🇸_US_美国_欢迎订阅yui科技_76
+      - 🇭🇰+香港_0923008
+      - 🇺🇸_US_美国_欢迎订阅yui科技_116
+      - 关注电报https://t.me/aifenxiang2020_3
+      - 频道22@wxgqlfx
+      - 🇨🇳+_TW_台湾_1_7@29
+      - 🇨🇦 加拿大 150
+      - 🇸🇬+_SG_新加坡+3+2+2
+      - 🇨🇳 Taiwan 02 @nodpai
+      - 🇺🇸_US_美国_2
+      - '18878'
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - '2023-09-23T13:25:46+08:00 177 https://github.com/mianfeifq/share '
+      - 🇪🇺 欧洲(油管破解资源君2.0) 44 2
+      - 🇨🇦_CA_加拿大_2_16@11
+      - ceshi
+      - 🇺🇸_US_美国_欢迎订阅yui科技_80
+      - 🇺🇸_US_美国_欢迎订阅yui科技_70
+      - 频道36@wxgqlfx
+      - 🇯🇵 Japan 04 @nodpai
+      - 🇺🇸 _US_美国_13
+      - 🇺🇸 美国 112
+      - 🇺🇸_US_美国_19
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_138
+      - 荷兰
+      - US 71 → tg@nicevpn123
+      - 🇻🇳 Viet Nam 01 @nodpai
+      - 🇺🇸 美国 62
+      - US 75 → tg@nicevpn123
+      - 🇺🇸_US_美国_欢迎订阅yui科技_126
+      - 「蛋挞云,超低价格,超高体验」🇩🇪 DE 01
+      - 🇺🇸_US_美国_欢迎订阅yui科技_64
+      - 频道25@wxgqlfx
+      - 🇺🇸 美国 322
+      - _3
+      - 五叶节点分享频道 @hkaa0_1
+      - 频道42@wxgqlfx
+      - 美国CloudFlare节点 14
+      - 🇺🇸_US_美国_欢迎订阅yui科技_89
+      - 关注频道https://t.me/mftizi
+      - 🇺🇸 美国 335
+      - 🇻🇳 Viet Nam 02 @nodpai
+      - 🇺🇸 United States 05 @nodpai
+      - FR 5 → tg@nicevpn123
+      - _4
+      - 🇺🇸 US 319
+      - 频道30@wxgqlfx
+      - 🇺🇸 _US_美国_9
+      - 🇭🇰+_HK_香港_176
+      - 🇺🇸_US_美国_欢迎订阅yui科技_118
+      - 🇺🇸_US_美国_欢迎订阅yui科技_108
+      - 🇺🇸 United States 13 @nodpai
+      - 频道34@wxgqlfx
+      - 🇺🇸 美国_09231064
+      - 🇭🇰 _HK_香港
+      - 🇺🇸_US_美国_欢迎订阅yui科技_170
+      - 🇺🇸_US_美国->🇫🇷_FR_法国
+      - 🇺🇸 US 860
+      - 频道48@wxgqlfx
+      - 未知_0923435
+      - 🇺🇸_US_美国_欢迎订阅yui科技_92
+      - 频道26@wxgqlfx
+      - 🇸🇬 SG(AzadNet.t.me)_022
+      - 🇬🇧_GB_英国_18@2
+      - 🇺🇸_US_美国_欢迎订阅yui科技_87
+      - 频道38@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_39
+      - 🇺🇸_US_美国_欢迎订阅yui科技_40
+      - _1
+      - 🇺🇸_US_美国_4
+      - 🇺🇸_US_美国_欢迎订阅yui科技_124
+      - 🇫🇷_FR_法国_欢迎订阅yui科技_142
+      - 🇭🇰+_HK_香港_4@2
+      - 🇺🇸_US_美国_欢迎订阅yui科技_120
       - defaultName
+      - 🇻🇳 Viet Nam 08 @nodpai
+      - 🇨🇦 加拿大 114
+      - 🇺🇸_US_美国_欢迎订阅yui科技_77
+      - 频道53@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_171
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_117
+      - 🇺🇸_US_美国_欢迎订阅yui科技_49
+      - 🇺🇸 美国 338
+      - 🇺🇸 US 650
+      - 🇺🇸 US 282
+      - ✅سرورهایبیشتردرکانال:prrofile_purple@✅
+      - 🇦🇺 AU 32
+      - 🇯🇵 JP(AzadNet.t.me)_024
+      - 🇻🇳 Viet Nam 03 @nodpai
+      - 🇭🇰 _HK_香港_欢迎订阅yui科技_45
+      - _6
+      - 🇺🇸 United States 02 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_176
+      - 🇳🇱_NL_荷兰_欢迎订阅yui科技_158
+      - 🇺🇸_US_美国_欢迎订阅yui科技_144
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_162
+      - 频道47@wxgqlfx
+      - 频道27@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_169
+      - 🇯🇵 JP 61
+      - 🇺🇸 美国 60
+      - 频道29@wxgqlfx
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_122
+      - v2_73
+      - 🇺🇸_US_美国_1
+      - 🇺🇸 United States 09 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_131
+      - 🇮🇪+爱尔兰_0923002
+      - 🇯🇵 JP(AzadNet.t.me)_023
+      - 🇺🇸 _US_美国->🇳🇱_NL_荷兰
+      - 🇹🇼_TW_台湾_2_10@30
+      - 🇺🇸_US_美国_欢迎订阅yui科技_11
+      - 频道31@wxgqlfx
+      - 频道19@wxgqlfx
+      - 🇺🇸 United States 16 @nodpai
+      - 关注电报https://t.me/aifenxiang2020_1
+      - 🇺🇸_US_美国_欢迎订阅yui科技_181
+      - 🇵🇱_PL_波兰
+      - 🇺🇸_US_美国_欢迎订阅yui科技_65
+      - 🇻🇳 Viet Nam 04 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_55
+      - 🇺🇸_US_美国_欢迎订阅yui科技_148
+      - 🇺🇸 美国 32
+      - 🇺🇸 美国 324
+      - 🇺🇸 United States 03 @nodpai
+      - 🇺🇸 美国(油管破解资源君) 38
+      - 🇬🇧+英国_0922022
+      - 🇺🇸 US 654
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_112
+      - 🇺🇸_US_美国_欢迎订阅yui科技_105
+      - 🇺🇸_US_美国_欢迎订阅yui科技_53
+      - 🇺🇸 美国 29
+      - 频道18@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_94
+      - FR_speednode_0007
+      - 频道01@wxgqlfx
+      - 🇺🇸 美国_09231068
+      - 🇺🇸_US_美国_欢迎订阅yui科技_85
+      - 🇺🇸 美国 305
+      - 🇭🇰 _HK_香港_欢迎订阅yui科技_118
+      - 🇺🇸_US_美国_5
+      - 「节点冠名招商 @nodpai」🇯🇵 JP 01
+      - 🇺🇸_US_美国_欢迎订阅yui科技_52
+      - 🇺🇸_US_美国_欢迎订阅yui科技_83
+      - 🇺🇸_US_美国_欢迎订阅yui科技_25
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_74
+      - US 46 → tg@nicevpn123
+      - 🇺🇸_US_美国_欢迎订阅yui科技_104
+      - 频道55@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_79
+      - 五叶节点分享频道 @hkaa0_2
+      - 🇨🇳_CN_中国->🇺🇸_US_美国
+      - 🇺🇸_US_美国_欢迎订阅yui科技_177
+      - 频道54@wxgqlfx
+      - 🇺🇸_US_美国_1
+      - 🇺🇸 US 589
+      - SG_36 |35.53Mb
+      - 频道43@wxgqlfx
+      - 🇰🇷+_KR_韩国_109（ccbaohe.com）免费资源导航
+      - 频道32@wxgqlfx
+      - 🇺🇸 美国_0923354
+      - 🇺🇸_US_美国_2
+      - 🇺🇸 US(AzadNet.t.me)_411
+      - HK_speednode_0036
+      - FR 6 → tg@nicevpn123
+      - 🇻🇳 Viet Nam 05 @nodpai
+      - 🇺🇸 _US_美国
+      - 频道44@wxgqlfx
+      - 🇺🇸 美国 275
+      - 🇫🇷_FR_法国_0@16
+      - unknown 248
+      - 🇩🇪_DE_德国_18@3
+      - 🇲🇴_MO_澳门
+      - 关注电报https://t.me/aifenxiang2020_2
+      - 🇺🇸 United States 14 @nodpai
+      - 🇨🇳 台湾_0920001
+      - 🇺🇸_US_美国_欢迎订阅yui科技_103
+      - 🇺🇸+Relay_🇺🇸US-🇺🇸US_97+|21.55Mb
+      - 🇰🇷 _KR_韩国_欢迎订阅yui科技_20
+      - 🇺🇸_US_美国_欢迎订阅yui科技_76
+      - 🇭🇰+香港_0923008
+      - 🇺🇸_US_美国_欢迎订阅yui科技_116
+      - 关注电报https://t.me/aifenxiang2020_3
+      - 频道22@wxgqlfx
+      - 🇨🇳+_TW_台湾_1_7@29
+      - 🇨🇦 加拿大 150
+      - 🇸🇬+_SG_新加坡+3+2+2
+      - 🇨🇳 Taiwan 02 @nodpai
+      - 🇺🇸_US_美国_2
+      - '18878'
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - '2023-09-23T13:25:46+08:00 177 https://github.com/mianfeifq/share '
+      - 🇪🇺 欧洲(油管破解资源君2.0) 44 2
+      - 🇨🇦_CA_加拿大_2_16@11
+      - ceshi
+      - 🇺🇸_US_美国_欢迎订阅yui科技_80
+      - 🇺🇸_US_美国_欢迎订阅yui科技_70
+      - 频道36@wxgqlfx
+      - 🇯🇵 Japan 04 @nodpai
+      - 🇺🇸 _US_美国_13
+      - 🇺🇸 美国 112
+      - 🇺🇸_US_美国_19
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_138
+      - 荷兰
+      - US 71 → tg@nicevpn123
+      - 🇻🇳 Viet Nam 01 @nodpai
+      - 🇺🇸 美国 62
+      - US 75 → tg@nicevpn123
+      - 🇺🇸_US_美国_欢迎订阅yui科技_126
+      - 「蛋挞云,超低价格,超高体验」🇩🇪 DE 01
+      - 🇺🇸_US_美国_欢迎订阅yui科技_64
+      - 频道25@wxgqlfx
+      - 🇺🇸 美国 322
+      - _3
+      - 五叶节点分享频道 @hkaa0_1
+      - 频道42@wxgqlfx
+      - 美国CloudFlare节点 14
+      - 🇺🇸_US_美国_欢迎订阅yui科技_89
+      - 关注频道https://t.me/mftizi
+      - 🇺🇸 美国 335
+      - 🇻🇳 Viet Nam 02 @nodpai
+      - 🇺🇸 United States 05 @nodpai
+      - FR 5 → tg@nicevpn123
+      - _4
+      - 🇺🇸 US 319
+      - 频道30@wxgqlfx
+      - 🇺🇸 _US_美国_9
+      - 🇭🇰+_HK_香港_176
+      - 🇺🇸_US_美国_欢迎订阅yui科技_118
+      - 🇺🇸_US_美国_欢迎订阅yui科技_108
+      - 🇺🇸 United States 13 @nodpai
+      - 频道34@wxgqlfx
+      - 🇺🇸 美国_09231064
+      - 🇭🇰 _HK_香港
+      - 🇺🇸_US_美国_欢迎订阅yui科技_170
+      - 🇺🇸_US_美国->🇫🇷_FR_法国
+      - 🇺🇸 US 860
+      - 频道48@wxgqlfx
+      - 未知_0923435
+      - 🇺🇸_US_美国_欢迎订阅yui科技_92
+      - 频道26@wxgqlfx
+      - 🇸🇬 SG(AzadNet.t.me)_022
+      - 🇬🇧_GB_英国_18@2
+      - 🇺🇸_US_美国_欢迎订阅yui科技_87
+      - 频道38@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_39
+      - 🇺🇸_US_美国_欢迎订阅yui科技_40
+      - _1
+      - 🇺🇸_US_美国_4
+      - 🇺🇸_US_美国_欢迎订阅yui科技_124
+      - 🇫🇷_FR_法国_欢迎订阅yui科技_142
+      - 🇭🇰+_HK_香港_4@2
+      - 🇺🇸_US_美国_欢迎订阅yui科技_120
       - defaultName
+      - 🇻🇳 Viet Nam 08 @nodpai
+      - 🇨🇦 加拿大 114
+      - 🇺🇸_US_美国_欢迎订阅yui科技_77
+      - 频道53@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_171
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_117
+      - 🇺🇸_US_美国_欢迎订阅yui科技_49
+      - 🇺🇸 美国 338
+      - 🇺🇸 US 650
+      - 🇺🇸 US 282
+      - ✅سرورهایبیشتردرکانال:prrofile_purple@✅
+      - 🇦🇺 AU 32
+      - 🇯🇵 JP(AzadNet.t.me)_024
+      - 🇻🇳 Viet Nam 03 @nodpai
+      - 🇭🇰 _HK_香港_欢迎订阅yui科技_45
+      - _6
+      - 🇺🇸 United States 02 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_176
+      - 🇳🇱_NL_荷兰_欢迎订阅yui科技_158
+      - 🇺🇸_US_美国_欢迎订阅yui科技_144
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_162
+      - 频道47@wxgqlfx
+      - 频道27@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_169
+      - 🇯🇵 JP 61
+      - 🇺🇸 美国 60
+      - 频道29@wxgqlfx
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_122
+      - v2_73
+      - 🇺🇸_US_美国_1
+      - 🇺🇸 United States 09 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_131
+      - 🇮🇪+爱尔兰_0923002
+      - 🇯🇵 JP(AzadNet.t.me)_023
+      - 🇺🇸 _US_美国->🇳🇱_NL_荷兰
+      - 🇹🇼_TW_台湾_2_10@30
+      - 🇺🇸_US_美国_欢迎订阅yui科技_11
+      - 频道31@wxgqlfx
+      - 频道19@wxgqlfx
+      - 🇺🇸 United States 16 @nodpai
+      - 关注电报https://t.me/aifenxiang2020_1
+      - 🇺🇸_US_美国_欢迎订阅yui科技_181
+      - 🇵🇱_PL_波兰
+      - 🇺🇸_US_美国_欢迎订阅yui科技_65
+      - 🇻🇳 Viet Nam 04 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_55
+      - 🇺🇸_US_美国_欢迎订阅yui科技_148
+      - 🇺🇸 美国 32
+      - 🇺🇸 美国 324
+      - 🇺🇸 United States 03 @nodpai
+      - 🇺🇸 美国(油管破解资源君) 38
+      - 🇬🇧+英国_0922022
+      - 🇺🇸 US 654
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_112
+      - 🇺🇸_US_美国_欢迎订阅yui科技_105
+      - 🇺🇸_US_美国_欢迎订阅yui科技_53
+      - 🇺🇸 美国 29
+      - 频道18@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_94
+      - FR_speednode_0007
+      - 频道01@wxgqlfx
+      - 🇺🇸 美国_09231068
+      - 🇺🇸_US_美国_欢迎订阅yui科技_85
+      - 🇺🇸 美国 305
+      - 🇭🇰 _HK_香港_欢迎订阅yui科技_118
+      - 🇺🇸_US_美国_5
+      - 「节点冠名招商 @nodpai」🇯🇵 JP 01
+      - 🇺🇸_US_美国_欢迎订阅yui科技_52
+      - 🇺🇸_US_美国_欢迎订阅yui科技_83
+      - 🇺🇸_US_美国_欢迎订阅yui科技_25
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_74
+      - US 46 → tg@nicevpn123
+      - 🇺🇸_US_美国_欢迎订阅yui科技_104
+      - 频道55@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_79
+      - 五叶节点分享频道 @hkaa0_2
+      - 🇨🇳_CN_中国->🇺🇸_US_美国
+      - 🇺🇸_US_美国_欢迎订阅yui科技_177
+      - 频道54@wxgqlfx
+      - 🇺🇸_US_美国_1
+      - 🇺🇸 US 589
+      - SG_36 |35.53Mb
+      - 频道43@wxgqlfx
+      - 🇰🇷+_KR_韩国_109（ccbaohe.com）免费资源导航
+      - 频道32@wxgqlfx
+      - 🇺🇸 美国_0923354
+      - 🇺🇸_US_美国_2
+      - 🇺🇸 US(AzadNet.t.me)_411
+      - HK_speednode_0036
+      - FR 6 → tg@nicevpn123
+      - 🇻🇳 Viet Nam 05 @nodpai
+      - 🇺🇸 _US_美国
+      - 频道44@wxgqlfx
+      - 🇺🇸 美国 275
+      - 🇫🇷_FR_法国_0@16
+      - unknown 248
+      - 🇩🇪_DE_德国_18@3
+      - 🇲🇴_MO_澳门
+      - 关注电报https://t.me/aifenxiang2020_2
+      - 🇺🇸 United States 14 @nodpai
+      - 🇨🇳 台湾_0920001
+      - 🇺🇸_US_美国_欢迎订阅yui科技_103
+      - 🇺🇸+Relay_🇺🇸US-🇺🇸US_97+|21.55Mb
+      - 🇰🇷 _KR_韩国_欢迎订阅yui科技_20
+      - 🇺🇸_US_美国_欢迎订阅yui科技_76
+      - 🇭🇰+香港_0923008
+      - 🇺🇸_US_美国_欢迎订阅yui科技_116
+      - 关注电报https://t.me/aifenxiang2020_3
+      - 频道22@wxgqlfx
+      - 🇨🇳+_TW_台湾_1_7@29
+      - 🇨🇦 加拿大 150
+      - 🇸🇬+_SG_新加坡+3+2+2
+      - 🇨🇳 Taiwan 02 @nodpai
+      - 🇺🇸_US_美国_2
+      - '18878'
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - '2023-09-23T13:25:46+08:00 177 https://github.com/mianfeifq/share '
+      - 🇪🇺 欧洲(油管破解资源君2.0) 44 2
+      - 🇨🇦_CA_加拿大_2_16@11
+      - ceshi
+      - 🇺🇸_US_美国_欢迎订阅yui科技_80
+      - 🇺🇸_US_美国_欢迎订阅yui科技_70
+      - 频道36@wxgqlfx
+      - 🇯🇵 Japan 04 @nodpai
+      - 🇺🇸 _US_美国_13
+      - 🇺🇸 美国 112
+      - 🇺🇸_US_美国_19
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_138
+      - 荷兰
+      - US 71 → tg@nicevpn123
+      - 🇻🇳 Viet Nam 01 @nodpai
+      - 🇺🇸 美国 62
+      - US 75 → tg@nicevpn123
+      - 🇺🇸_US_美国_欢迎订阅yui科技_126
+      - 「蛋挞云,超低价格,超高体验」🇩🇪 DE 01
+      - 🇺🇸_US_美国_欢迎订阅yui科技_64
+      - 频道25@wxgqlfx
+      - 🇺🇸 美国 322
+      - _3
+      - 五叶节点分享频道 @hkaa0_1
+      - 频道42@wxgqlfx
+      - 美国CloudFlare节点 14
+      - 🇺🇸_US_美国_欢迎订阅yui科技_89
+      - 关注频道https://t.me/mftizi
+      - 🇺🇸 美国 335
+      - 🇻🇳 Viet Nam 02 @nodpai
+      - 🇺🇸 United States 05 @nodpai
+      - FR 5 → tg@nicevpn123
+      - _4
+      - 🇺🇸 US 319
+      - 频道30@wxgqlfx
+      - 🇺🇸 _US_美国_9
+      - 🇭🇰+_HK_香港_176
+      - 🇺🇸_US_美国_欢迎订阅yui科技_118
+      - 🇺🇸_US_美国_欢迎订阅yui科技_108
+      - 🇺🇸 United States 13 @nodpai
+      - 频道34@wxgqlfx
+      - 🇺🇸 美国_09231064
+      - 🇭🇰 _HK_香港
+      - 🇺🇸_US_美国_欢迎订阅yui科技_170
+      - 🇺🇸_US_美国->🇫🇷_FR_法国
+      - 🇺🇸 US 860
+      - 频道48@wxgqlfx
+      - 未知_0923435
+      - 🇺🇸_US_美国_欢迎订阅yui科技_92
+      - 频道26@wxgqlfx
+      - 🇸🇬 SG(AzadNet.t.me)_022
+      - 🇬🇧_GB_英国_18@2
+      - 🇺🇸_US_美国_欢迎订阅yui科技_87
+      - 频道38@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_39
+      - 🇺🇸_US_美国_欢迎订阅yui科技_40
+      - _1
+      - 🇺🇸_US_美国_4
+      - 🇺🇸_US_美国_欢迎订阅yui科技_124
+      - 🇫🇷_FR_法国_欢迎订阅yui科技_142
+      - 🇭🇰+_HK_香港_4@2
+      - 🇺🇸_US_美国_欢迎订阅yui科技_120
       - defaultName
+      - 🇻🇳 Viet Nam 08 @nodpai
+      - 🇨🇦 加拿大 114
+      - 🇺🇸_US_美国_欢迎订阅yui科技_77
+      - 频道53@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_171
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_117
+      - 🇺🇸_US_美国_欢迎订阅yui科技_49
+      - 🇺🇸 美国 338
+      - 🇺🇸 US 650
+      - 🇺🇸 US 282
+      - ✅سرورهایبیشتردرکانال:prrofile_purple@✅
+      - 🇦🇺 AU 32
+      - 🇯🇵 JP(AzadNet.t.me)_024
+      - 🇻🇳 Viet Nam 03 @nodpai
+      - 🇭🇰 _HK_香港_欢迎订阅yui科技_45
+      - _6
+      - 🇺🇸 United States 02 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_176
+      - 🇳🇱_NL_荷兰_欢迎订阅yui科技_158
+      - 🇺🇸_US_美国_欢迎订阅yui科技_144
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_162
+      - 频道47@wxgqlfx
+      - 频道27@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_169
+      - 🇯🇵 JP 61
+      - 🇺🇸 美国 60
+      - 频道29@wxgqlfx
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_122
+      - v2_73
+      - 🇺🇸_US_美国_1
+      - 🇺🇸 United States 09 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_131
+      - 🇮🇪+爱尔兰_0923002
+      - 🇯🇵 JP(AzadNet.t.me)_023
+      - 🇺🇸 _US_美国->🇳🇱_NL_荷兰
+      - 🇹🇼_TW_台湾_2_10@30
+      - 🇺🇸_US_美国_欢迎订阅yui科技_11
+      - 频道31@wxgqlfx
+      - 频道19@wxgqlfx
+      - 🇺🇸 United States 16 @nodpai
+      - 关注电报https://t.me/aifenxiang2020_1
+      - 🇺🇸_US_美国_欢迎订阅yui科技_181
+      - 🇵🇱_PL_波兰
+      - 🇺🇸_US_美国_欢迎订阅yui科技_65
+      - 🇻🇳 Viet Nam 04 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_55
+      - 🇺🇸_US_美国_欢迎订阅yui科技_148
+      - 🇺🇸 美国 32
+      - 🇺🇸 美国 324
+      - 🇺🇸 United States 03 @nodpai
+      - 🇺🇸 美国(油管破解资源君) 38
+      - 🇬🇧+英国_0922022
+      - 🇺🇸 US 654
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_112
+      - 🇺🇸_US_美国_欢迎订阅yui科技_105
+      - 🇺🇸_US_美国_欢迎订阅yui科技_53
+      - 🇺🇸 美国 29
+      - 频道18@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_94
+      - FR_speednode_0007
+      - 频道01@wxgqlfx
+      - 🇺🇸 美国_09231068
+      - 🇺🇸_US_美国_欢迎订阅yui科技_85
+      - 🇺🇸 美国 305
+      - 🇭🇰 _HK_香港_欢迎订阅yui科技_118
+      - 🇺🇸_US_美国_5
+      - 「节点冠名招商 @nodpai」🇯🇵 JP 01
+      - 🇺🇸_US_美国_欢迎订阅yui科技_52
+      - 🇺🇸_US_美国_欢迎订阅yui科技_83
+      - 🇺🇸_US_美国_欢迎订阅yui科技_25
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_74
+      - US 46 → tg@nicevpn123
+      - 🇺🇸_US_美国_欢迎订阅yui科技_104
+      - 频道55@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_79
+      - 五叶节点分享频道 @hkaa0_2
+      - 🇨🇳_CN_中国->🇺🇸_US_美国
+      - 🇺🇸_US_美国_欢迎订阅yui科技_177
+      - 频道54@wxgqlfx
+      - 🇺🇸_US_美国_1
+      - 🇺🇸 US 589
+      - SG_36 |35.53Mb
+      - 频道43@wxgqlfx
+      - 🇰🇷+_KR_韩国_109（ccbaohe.com）免费资源导航
+      - 频道32@wxgqlfx
+      - 🇺🇸 美国_0923354
+      - 🇺🇸_US_美国_2
+      - 🇺🇸 US(AzadNet.t.me)_411
+      - HK_speednode_0036
+      - FR 6 → tg@nicevpn123
+      - 🇻🇳 Viet Nam 05 @nodpai
+      - 🇺🇸 _US_美国
+      - 频道44@wxgqlfx
+      - 🇺🇸 美国 275
+      - 🇫🇷_FR_法国_0@16
+      - unknown 248
+      - 🇩🇪_DE_德国_18@3
+      - 🇲🇴_MO_澳门
+      - 关注电报https://t.me/aifenxiang2020_2
+      - 🇺🇸 United States 14 @nodpai
+      - 🇨🇳 台湾_0920001
+      - 🇺🇸_US_美国_欢迎订阅yui科技_103
+      - 🇺🇸+Relay_🇺🇸US-🇺🇸US_97+|21.55Mb
+      - 🇰🇷 _KR_韩国_欢迎订阅yui科技_20
+      - 🇺🇸_US_美国_欢迎订阅yui科技_76
+      - 🇭🇰+香港_0923008
+      - 🇺🇸_US_美国_欢迎订阅yui科技_116
+      - 关注电报https://t.me/aifenxiang2020_3
+      - 频道22@wxgqlfx
+      - 🇨🇳+_TW_台湾_1_7@29
+      - 🇨🇦 加拿大 150
+      - 🇸🇬+_SG_新加坡+3+2+2
+      - 🇨🇳 Taiwan 02 @nodpai
+      - 🇺🇸_US_美国_2
+      - '18878'
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -147,7 +1386,184 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - '2023-09-23T13:25:46+08:00 177 https://github.com/mianfeifq/share '
+      - 🇪🇺 欧洲(油管破解资源君2.0) 44 2
+      - 🇨🇦_CA_加拿大_2_16@11
+      - ceshi
+      - 🇺🇸_US_美国_欢迎订阅yui科技_80
+      - 🇺🇸_US_美国_欢迎订阅yui科技_70
+      - 频道36@wxgqlfx
+      - 🇯🇵 Japan 04 @nodpai
+      - 🇺🇸 _US_美国_13
+      - 🇺🇸 美国 112
+      - 🇺🇸_US_美国_19
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_138
+      - 荷兰
+      - US 71 → tg@nicevpn123
+      - 🇻🇳 Viet Nam 01 @nodpai
+      - 🇺🇸 美国 62
+      - US 75 → tg@nicevpn123
+      - 🇺🇸_US_美国_欢迎订阅yui科技_126
+      - 「蛋挞云,超低价格,超高体验」🇩🇪 DE 01
+      - 🇺🇸_US_美国_欢迎订阅yui科技_64
+      - 频道25@wxgqlfx
+      - 🇺🇸 美国 322
+      - _3
+      - 五叶节点分享频道 @hkaa0_1
+      - 频道42@wxgqlfx
+      - 美国CloudFlare节点 14
+      - 🇺🇸_US_美国_欢迎订阅yui科技_89
+      - 关注频道https://t.me/mftizi
+      - 🇺🇸 美国 335
+      - 🇻🇳 Viet Nam 02 @nodpai
+      - 🇺🇸 United States 05 @nodpai
+      - FR 5 → tg@nicevpn123
+      - _4
+      - 🇺🇸 US 319
+      - 频道30@wxgqlfx
+      - 🇺🇸 _US_美国_9
+      - 🇭🇰+_HK_香港_176
+      - 🇺🇸_US_美国_欢迎订阅yui科技_118
+      - 🇺🇸_US_美国_欢迎订阅yui科技_108
+      - 🇺🇸 United States 13 @nodpai
+      - 频道34@wxgqlfx
+      - 🇺🇸 美国_09231064
+      - 🇭🇰 _HK_香港
+      - 🇺🇸_US_美国_欢迎订阅yui科技_170
+      - 🇺🇸_US_美国->🇫🇷_FR_法国
+      - 🇺🇸 US 860
+      - 频道48@wxgqlfx
+      - 未知_0923435
+      - 🇺🇸_US_美国_欢迎订阅yui科技_92
+      - 频道26@wxgqlfx
+      - 🇸🇬 SG(AzadNet.t.me)_022
+      - 🇬🇧_GB_英国_18@2
+      - 🇺🇸_US_美国_欢迎订阅yui科技_87
+      - 频道38@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_39
+      - 🇺🇸_US_美国_欢迎订阅yui科技_40
+      - _1
+      - 🇺🇸_US_美国_4
+      - 🇺🇸_US_美国_欢迎订阅yui科技_124
+      - 🇫🇷_FR_法国_欢迎订阅yui科技_142
+      - 🇭🇰+_HK_香港_4@2
+      - 🇺🇸_US_美国_欢迎订阅yui科技_120
       - defaultName
+      - 🇻🇳 Viet Nam 08 @nodpai
+      - 🇨🇦 加拿大 114
+      - 🇺🇸_US_美国_欢迎订阅yui科技_77
+      - 频道53@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_171
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_117
+      - 🇺🇸_US_美国_欢迎订阅yui科技_49
+      - 🇺🇸 美国 338
+      - 🇺🇸 US 650
+      - 🇺🇸 US 282
+      - ✅سرورهایبیشتردرکانال:prrofile_purple@✅
+      - 🇦🇺 AU 32
+      - 🇯🇵 JP(AzadNet.t.me)_024
+      - 🇻🇳 Viet Nam 03 @nodpai
+      - 🇭🇰 _HK_香港_欢迎订阅yui科技_45
+      - _6
+      - 🇺🇸 United States 02 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_176
+      - 🇳🇱_NL_荷兰_欢迎订阅yui科技_158
+      - 🇺🇸_US_美国_欢迎订阅yui科技_144
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_162
+      - 频道47@wxgqlfx
+      - 频道27@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_169
+      - 🇯🇵 JP 61
+      - 🇺🇸 美国 60
+      - 频道29@wxgqlfx
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_122
+      - v2_73
+      - 🇺🇸_US_美国_1
+      - 🇺🇸 United States 09 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_131
+      - 🇮🇪+爱尔兰_0923002
+      - 🇯🇵 JP(AzadNet.t.me)_023
+      - 🇺🇸 _US_美国->🇳🇱_NL_荷兰
+      - 🇹🇼_TW_台湾_2_10@30
+      - 🇺🇸_US_美国_欢迎订阅yui科技_11
+      - 频道31@wxgqlfx
+      - 频道19@wxgqlfx
+      - 🇺🇸 United States 16 @nodpai
+      - 关注电报https://t.me/aifenxiang2020_1
+      - 🇺🇸_US_美国_欢迎订阅yui科技_181
+      - 🇵🇱_PL_波兰
+      - 🇺🇸_US_美国_欢迎订阅yui科技_65
+      - 🇻🇳 Viet Nam 04 @nodpai
+      - 🇺🇸_US_美国_欢迎订阅yui科技_55
+      - 🇺🇸_US_美国_欢迎订阅yui科技_148
+      - 🇺🇸 美国 32
+      - 🇺🇸 美国 324
+      - 🇺🇸 United States 03 @nodpai
+      - 🇺🇸 美国(油管破解资源君) 38
+      - 🇬🇧+英国_0922022
+      - 🇺🇸 US 654
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_112
+      - 🇺🇸_US_美国_欢迎订阅yui科技_105
+      - 🇺🇸_US_美国_欢迎订阅yui科技_53
+      - 🇺🇸 美国 29
+      - 频道18@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_94
+      - FR_speednode_0007
+      - 频道01@wxgqlfx
+      - 🇺🇸 美国_09231068
+      - 🇺🇸_US_美国_欢迎订阅yui科技_85
+      - 🇺🇸 美国 305
+      - 🇭🇰 _HK_香港_欢迎订阅yui科技_118
+      - 🇺🇸_US_美国_5
+      - 「节点冠名招商 @nodpai」🇯🇵 JP 01
+      - 🇺🇸_US_美国_欢迎订阅yui科技_52
+      - 🇺🇸_US_美国_欢迎订阅yui科技_83
+      - 🇺🇸_US_美国_欢迎订阅yui科技_25
+      - 🇺🇸 _US_美国_欢迎订阅yui科技_74
+      - US 46 → tg@nicevpn123
+      - 🇺🇸_US_美国_欢迎订阅yui科技_104
+      - 频道55@wxgqlfx
+      - 🇺🇸_US_美国_欢迎订阅yui科技_79
+      - 五叶节点分享频道 @hkaa0_2
+      - 🇨🇳_CN_中国->🇺🇸_US_美国
+      - 🇺🇸_US_美国_欢迎订阅yui科技_177
+      - 频道54@wxgqlfx
+      - 🇺🇸_US_美国_1
+      - 🇺🇸 US 589
+      - SG_36 |35.53Mb
+      - 频道43@wxgqlfx
+      - 🇰🇷+_KR_韩国_109（ccbaohe.com）免费资源导航
+      - 频道32@wxgqlfx
+      - 🇺🇸 美国_0923354
+      - 🇺🇸_US_美国_2
+      - 🇺🇸 US(AzadNet.t.me)_411
+      - HK_speednode_0036
+      - FR 6 → tg@nicevpn123
+      - 🇻🇳 Viet Nam 05 @nodpai
+      - 🇺🇸 _US_美国
+      - 频道44@wxgqlfx
+      - 🇺🇸 美国 275
+      - 🇫🇷_FR_法国_0@16
+      - unknown 248
+      - 🇩🇪_DE_德国_18@3
+      - 🇲🇴_MO_澳门
+      - 关注电报https://t.me/aifenxiang2020_2
+      - 🇺🇸 United States 14 @nodpai
+      - 🇨🇳 台湾_0920001
+      - 🇺🇸_US_美国_欢迎订阅yui科技_103
+      - 🇺🇸+Relay_🇺🇸US-🇺🇸US_97+|21.55Mb
+      - 🇰🇷 _KR_韩国_欢迎订阅yui科技_20
+      - 🇺🇸_US_美国_欢迎订阅yui科技_76
+      - 🇭🇰+香港_0923008
+      - 🇺🇸_US_美国_欢迎订阅yui科技_116
+      - 关注电报https://t.me/aifenxiang2020_3
+      - 频道22@wxgqlfx
+      - 🇨🇳+_TW_台湾_1_7@29
+      - 🇨🇦 加拿大 150
+      - 🇸🇬+_SG_新加坡+3+2+2
+      - 🇨🇳 Taiwan 02 @nodpai
+      - 🇺🇸_US_美国_2
+      - '18878'
 
 rules:
 # 本地/局域网地址
